@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SnapCRM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">172.18.0.4</Value>
+    </Setting>
+    <Setting Name="databaseName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">snapcrm</Value>
+    </Setting>
+    <Setting Name="userName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Nurken</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Rootpass1970</Value>
+    </Setting>
+    <Setting Name="agentID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">726</Value>
+    </Setting>
+    <Setting Name="asteriskAMIport" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5068</Value>
+    </Setting>
+    <Setting Name="asteriskServerIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="astHost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">172.18.0.4</Value>
+    </Setting>
+    <Setting Name="astPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5038</Value>
+    </Setting>
+    <Setting Name="astUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">test1</Value>
+    </Setting>
+    <Setting Name="astPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8d75a05141a0e853121a48a1ff024e74</Value>
+    </Setting>
+    <Setting Name="astPeerType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SIP</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
